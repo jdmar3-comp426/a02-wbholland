@@ -1,0 +1,22 @@
+{
+  "name": "a02-wbholland",
+  "version": "1.0.0",
+  "description": "COMP426 assignment 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02-wbholland.git"
+  },
+  "author": "William Holland",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-wbholland/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-wbholland#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
